@@ -1,0 +1,44 @@
+12-Nov-24 20:38:11 - __mp_main__ - DEBUG - CompaniesEmails.csv read successfully
+12-Nov-24 20:38:11 - __mp_main__ - DEBUG - CompaniesEmails.csv backup created successfully
+12-Nov-24 20:38:18 - emailscraper - DEBUG - Links found for MEDCOM Sp. z o.o.
+12-Nov-24 20:38:23 - emailscraper - INFO - Checking for emails in: https://medcom.com.pl/kontakt
+12-Nov-24 20:38:23 - emailscraper - INFO - Checking for emails in: https://medcom.com.pl/en/contact
+12-Nov-24 20:38:24 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2580)')': /en/about-us
+12-Nov-24 20:38:24 - emailscraper - INFO - Checking for emails in: https://medcom.com.pl/
+12-Nov-24 20:38:26 - emailscraper - INFO - Checking for emails in: https://medcom.com.pl/produkty
+12-Nov-24 20:38:28 - emailscraper - INFO - Checking for emails in: https://pl.mitsubishielectric.com/pl/about/local/locations/pl005/index.html
+12-Nov-24 20:38:32 - emailscraper - INFO - Checking for emails in: https://medcom.com.pl/en/about-us
+12-Nov-24 20:38:32 - emailscraper - INFO - Emails found
+12-Nov-24 20:38:34 - emailscraper - DEBUG - Links found for Mercedes-Benz Manufacturing Poland Sp. z o.o.
+12-Nov-24 20:38:38 - emailscraper - INFO - Checking for emails in: http://mercedes-benz-jawor.com.pl/pl/fabryka-w-jaworze/nasz-zespol
+12-Nov-24 20:38:39 - emailscraper - INFO - Checking for emails in: http://mercedes-benz-jawor.com.pl/pl/kontakt
+12-Nov-24 20:38:39 - emailscraper - INFO - Checking for emails in: https://media.mercedes-benz.pl/kontakt
+12-Nov-24 20:38:39 - emailscraper - INFO - Checking for emails in: https://media.mercedes-benz.pl/milionowy-silnik-z-fabryki-mercedesa-w-jaworze/
+12-Nov-24 20:38:40 - emailscraper - INFO - Checking for emails in: https://group.mercedes-benz.com/careers/about-us/locations/location-detail-page-5199.html
+12-Nov-24 20:38:44 - emailscraper - INFO - Checking for emails in: https://mercedes-benz-jawor.com.pl/
+12-Nov-24 20:38:44 - emailscraper - INFO - Emails found
+12-Nov-24 20:38:46 - emailscraper - DEBUG - Links found for FAMUR S.A.
+12-Nov-24 20:38:52 - emailscraper - INFO - Checking for emails in: https://famur.com/en/home-us/
+12-Nov-24 20:38:53 - emailscraper - INFO - Checking for emails in: https://famur.com/kontakt/
+12-Nov-24 20:38:53 - emailscraper - INFO - Checking for emails in: https://www.nrk.no/sport/odegaard-reiser-hjem_-_-kjip-folelse-1.17122058
+12-Nov-24 20:38:53 - emailscraper - INFO - Checking for emails in: https://www.famur.ch/kontakt/
+12-Nov-24 20:38:53 - emailscraper - INFO - Checking for emails in: https://theorg.com/org/famur-sa
+12-Nov-24 20:38:56 - emailscraper - INFO - Checking for emails in: https://www.famak.pl/en
+12-Nov-24 20:38:56 - emailscraper - INFO - Emails found
+12-Nov-24 20:38:58 - emailscraper - DEBUG - Links found for Amica S.A.
+12-Nov-24 20:39:04 - emailscraper - INFO - Checking for emails in: https://amica-group.hr/hr
+12-Nov-24 20:39:04 - emailscraper - INFO - Checking for emails in: https://www.amica.sk/5-rokov-zaruka
+12-Nov-24 20:39:05 - emailscraper - INFO - Checking for emails in: https://www.amica-group.cz/
+12-Nov-24 20:39:06 - emailscraper - INFO - Checking for emails in: https://www.amica-group.cz/5-let-zaruka
+12-Nov-24 20:39:07 - emailscraper - INFO - Checking for emails in: https://www.amica.pl/kontakt
+12-Nov-24 20:39:10 - emailscraper - INFO - Checking for emails in: https://amica-group.com/
+12-Nov-24 20:39:10 - emailscraper - INFO - Emails found
+12-Nov-24 20:39:12 - emailscraper - DEBUG - Links found for MAHLE Polska Sp. z o.o.
+12-Nov-24 20:39:18 - emailscraper - INFO - Checking for emails in: https://www.pl.mahle.com/
+12-Nov-24 20:39:18 - emailscraper - INFO - Checking for emails in: https://www.pl.mahle.com/pl/
+12-Nov-24 20:39:18 - emailscraper - INFO - Checking for emails in: https://www.mahle.com/en/about-mahle/locations/1164.jsp
+12-Nov-24 20:39:18 - emailscraper - INFO - Checking for emails in: https://www.mahle.com/de/about-mahle/locations/1164.jsp
+12-Nov-24 20:39:19 - emailscraper - INFO - Checking for emails in: https://www.pl.mahle.com/pl/mahle-poland/mahle-w-krotoszynie/
+12-Nov-24 20:39:20 - emailscraper - INFO - Checking for emails in: https://www.pl.mahle.com/en/contact/pl/
+12-Nov-24 20:39:20 - emailscraper - INFO - Emails found
+12-Nov-24 20:39:21 - __mp_main__ - DEBUG - Saved to CompaniesEmails.csv
