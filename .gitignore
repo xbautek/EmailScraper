@@ -1,3 +1,4 @@
 .env
 emailscrap.py
 test.py
+__pycache__
